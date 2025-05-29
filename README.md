@@ -19,7 +19,7 @@
 -  **Name**: CryptoBuddy
 - **Tone**: Friendly, casual, informative
 - **Greeting Example**:
-  >  Hey there! I'm CryptoBuddy, your AI-powered financial sidekick! 💸
+  >  Hey there! I'm CryptoBuddy, your AI-powered financial sidekick! 
 
 
 ##  Decision Logic (Rules-Based AI)
@@ -61,10 +61,8 @@ crypto_db = {
 }
 
 
-#Sample Conversation
-text
-Copy
-Edit
+**Sample Conversation**
+
 Hey there! I'm CryptoBuddy, your AI-powered financial sidekick! 💸
 You: Which crypto is trending up?
 CryptoBuddy: Cardano is on the rise and also ranks high in sustainability! A smart move! 📈🌱
@@ -75,11 +73,7 @@ CryptoBuddy: Cardano! It uses low energy and has a high sustainability score.
 You: Is Bitcoin a good investment?
 CryptoBuddy: Bitcoin is trending up and has a high market cap, but it consumes a lot of energy. 
 
-#50-Word Summary
-CryptoBuddy mimics basic AI reasoning by applying rule-based logic to static crypto data. It analyzes user queries using simple NLP and responds with recommendations based on trend, market cap, and energy use. The project showcases how logic and conditions power early AI systems and lays a foundation for future enhancements.
-
-
-#Future Improvements
+****Future Improvements**
 Use real-time crypto data with CoinGecko API
 
 Upgrade NLP using spaCy
@@ -90,14 +84,14 @@ Add persistent storage (SQLite / Firebase)
 
 Host as a web app using Flask + HTML
 
-#Disclaimer
+**Disclaimer**
 Crypto is risky — always do your own research before investing! CryptoBuddy is for educational purposes only.
 
-# Author
-Jefther Simeon Afuyo
+**Author**
+**Jefther Simeon Afuyo
 PLP Academy – AI for Software Engineering
-afuyojefther@gmail.com
+afuyojefther@gmail.com**
 
-# License
+**License**
 This project is for educational use under the PLP Academy assignment guidelines. Feel free to reuse or modify it for learning purposes only.
 
