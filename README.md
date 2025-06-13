@@ -2,6 +2,13 @@
 
 **CryptoBuddy** is a beginner-friendly, rule-based Python chatbot that helps analyze cryptocurrencies based on **profitability** (price trends, market cap) and **sustainability** (energy use, environmental impact). Developed as part of the **PLP Academy – AI for Software Engineering Week 1 Assignment**.
 
+GROUP 73 ASSIGNMENT
+This assignment was done in collaboration of:
+
+1. Jefther Afuyo afuyojefther@gmail.com 
+2. Liza Bambu  lizabambu544@gmail.com
+3. Simon Mwangi mwangisimone007@gmail.com
+
 ## What Can It Do?
 
 **Sample queries**:
@@ -94,4 +101,6 @@ afuyojefther@gmail.com**
 
 **License**
 This project is for educational use under the PLP Academy assignment guidelines. Feel free to reuse or modify it for learning purposes only.
+
+
 
